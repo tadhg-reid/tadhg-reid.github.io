@@ -1,7 +1,7 @@
 ---
 layout: "profile"
-title: "Franciszek Fraszczyk"
-description: "Welcome to my personal CV portfolio website."
+title: "Tadhg Reid"
+description: "Welcome to my CV portfolio website."
 
 # This links your profile picture
 avatar: "me.jpg"
