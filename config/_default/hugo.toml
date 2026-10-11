@@ -1,0 +1,41 @@
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://nunocoracao.github.io/blowfish/docs/getting-started/
+
+theme = "blowfish"
+baseURL = "https://franciszekfraszczyk.github.io/"
+defaultContentLanguage = "en"
+
+# This updates the name shown on your browser tabs!
+title = "Franciszek Fraszczyk"
+
+enableRobotsTXT = true
+[pagination]
+  pagerSize = 20
+summaryLength = 30
+
+buildDrafts = false
+buildFuture = false
+
+enableEmoji = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+  series = "series"
+
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+
+[params]
+  name = "Franciszek Fraszczyk"
+  
+[params.verification]
+  google = "w_ZnwXPwfj5yxmMMz72S2OmscmEJnzoG-jcmpfeWLHk"
