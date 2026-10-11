@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Hugo
+.hugo_build.lock
+
+# Node
+node_modules/
+
+# Secrets / private files
+.env
