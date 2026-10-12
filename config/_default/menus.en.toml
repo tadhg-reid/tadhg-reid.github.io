@@ -12,3 +12,8 @@
   name = "Modules"
   pageRef = "modules"
   weight = 30
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 40
