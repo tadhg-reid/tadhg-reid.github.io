@@ -7,13 +7,13 @@ description: "Welcome to my CV portfolio website."
 avatar: "me.jpg"
 
 # Short tagline that goes right under your name
-bio: "Software Developer | Engineering Student | Lifelong Learner"
+bio: "Mechanical Designer | Master Engineering | Lifelong Learner"
 ---
 
-###  PLC Automation | Edge AI | Embedded Systems
+###  Mechanical Design | Valve Development | Microfluidics
 
-I am a top ranking Mechatronics Engineering graduate (BEng & MEng) from Dublin City University with a proven track record of bridging the gap between hardware execution and intelligent software design. My experience spans from programming and commissioning automated systems on live, safety-critical industrial plants with GEA Group, to deploying advanced Machine Learning models directly onto resource-constrained microcontroller hardware. 
+I graduated top of my class in Mechatronic Engineering (BEng & MEng) at Dublin City University in 2026. My expertise lies in mechanical design from first principles and the development of experimental solutions. I built these skills at Nammo Ireland, designing valves for aerospace applications and taking them from concept through every design stage to working prototypes. I’m now working part-time at the RAPID Institute, contributing to research publications across microfluidics and biochemistry.
 
-Whether collaborating in multidisciplinary teams, integrating complex mechanical and electrical systems, or optimising Edge AI models to automate live industrial plants, I design robust, operational solutions for safety-critical environments.
+Whatever the field, my strength lies in taking a concept and developing it into a complete, validated design. I’m comfortable carrying a project through every stage, from defining requirements and CAD modelling to FEA, risk assessment, drawing packages and prototype testing. I’m a lifelong learner, eager to apply that end-to-end approach to R&D work in any sector.
 
 [Explore My Work](projects) · [View My CV](/tadhg_reid_cv.pdf) · [Get In Touch](contact)
