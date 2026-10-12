@@ -1,6 +1,9 @@
 ---
 title: "Academic Modules & Grades"
 description: "Year-by-year academic breakdown and performance metrics at Dublin City University."
+layout: "single"
+showDate: false
+showAuthor: false
 ---
 
 ### Degree Classification Overview
