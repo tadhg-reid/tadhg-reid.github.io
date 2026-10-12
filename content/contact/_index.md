@@ -4,6 +4,7 @@ description: "Let's collaborate. Reach out for professional opportunities in rob
 layout: "single"
 showDate: false
 showAuthor: false
+showTableOfContents: false
 ---
 
 <div style="text-align: justify; margin-bottom: 30px;">
