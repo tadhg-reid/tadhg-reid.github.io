@@ -19,7 +19,7 @@ Whether you are looking to recruit for a technical role, discuss a research coll
   <div style="border: 1px solid #333; padding: 20px; border-radius: 6px; background: rgba(255,255,255,0.02);">
     <h4 style="margin-top: 0; color: #0077b5;">🔗 LinkedIn Profile</h4>
     <p style="font-size: 0.9rem; color: #888;">For networking, industry updates, and career history.</p>
-    <a href="https://www.linkedin.com/in/franciszek-fraszczyk-18140635b/" target="_blank" style="font-weight: bold; text-decoration: none; color: #3b82f6;">Connect on LinkedIn →</a>
+    <a href="https://www.linkedin.com/in/tadhg-reid-777-/" target="_blank" style="font-weight: bold; text-decoration: none; color: #3b82f6;">Connect on LinkedIn →</a>
   </div>
   
 <div style="border: 1px solid #333; padding: 20px; border-radius: 6px; background: rgba(255,255,255,0.02);">
@@ -36,8 +36,8 @@ Whether you are looking to recruit for a technical role, discuss a research coll
 
 <div style="text-align: center; margin: 40px 0;">
   <p style="margin-bottom: 10px; font-size: 1.1rem;">My Professional Inbox:</p>
-  <a href="mailto:your.email@example.com" style="background-color: #ef4444; color: white; padding: 14px 28px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; font-size: 1.1rem; letter-spacing: 0.5px;">
-    ✉️ franciszekfraszczyk@gmail.com
+  <a href="mailto:Tadhgreidwork@gmail.com" style="background-color: #ef4444; color: white; padding: 14px 28px; text-decoration: none; border-radius: 4px; font-weight: bold; display: inline-block; font-size: 1.1rem; letter-spacing: 0.5px;">
+    ✉️ Tadhgreidwork@gmail.com
   </a>
 </div>
 

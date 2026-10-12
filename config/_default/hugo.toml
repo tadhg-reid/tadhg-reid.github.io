@@ -3,11 +3,11 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://franciszekfraszczyk.github.io/"
+baseURL = "https://tadhg-reid.github.io/"
 defaultContentLanguage = "en"
 
 # This updates the name shown on your browser tabs!
-title = "Franciszek Fraszczyk"
+title = "Tadhg Reid"
 
 enableRobotsTXT = true
 [pagination]
@@ -35,7 +35,7 @@ enableEmoji = true
 
 
 [params]
-  name = "Franciszek Fraszczyk"
+  name = "Tadhg Reid"
   
 [params.verification]
-  google = "w_ZnwXPwfj5yxmMMz72S2OmscmEJnzoG-jcmpfeWLHk"
+  google = "u4_a_MJhMk6mxIiAbs0hMf5mfNhFAqHqAgcBb2wY9dY"

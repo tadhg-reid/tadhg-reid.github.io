@@ -1,6 +1,14 @@
-# Blowfish Template
-This is a template for the Blowfish Hugo Theme. Feel free to use this repo as a quick way to get started with Blowfish. Please visit [Blowfish's main website](https://github.com/nunocoracao/blowfish) to read the complete documentation.
+# tadhg-reid.github.io
 
-The template was built using the [Git option](https://nunocoracao.github.io/blowfish/docs/installation/#install-using-git) from Blowfish's installations instructions.
+Personal website of Tadhg Reid, built with [Hugo](https://gohugo.io/) and the [Blowfish](https://github.com/nunocoracao/blowfish) theme.
 
-![blowfish logo](https://github.com/nunocoracao/blowfish_template/blob/main/logo.png?raw=true)
+## Local development
+
+```
+git clone --recurse-submodules https://github.com/tadhg-reid/tadhg-reid.github.io.git
+hugo server
+```
+
+## Deployment
+
+Pushing to `main` builds the site and deploys it to GitHub Pages via `.github/workflows/hugo.yml`.
