@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-description: "Let's collaborate. Reach out for professional opportunities in robotics development, embedded physical AI, or automation engineering."
+description: "Let's collaborate. Reach out for professional opportunities in all aspects of Mechanical Design and R&D"
 layout: "single"
 showDate: false
 showAuthor: false
@@ -8,7 +8,7 @@ showTableOfContents: false
 ---
 
 <div style="text-align: justify; margin-bottom: 30px;">
-Whether you are looking to recruit for a technical role, discuss a research collaboration, or simply want to chat, feel free to drop me a line. I am currently based in <strong>Kildare, Ireland</strong> and am open to local opportunities as well as regional relocation.
+Whether you are looking to recruit for a technical role, discuss a research collaboration, reach out via the contacts below. I am currently based in <strong>Dublin, Ireland</strong>.
 </div>
 
 ---
