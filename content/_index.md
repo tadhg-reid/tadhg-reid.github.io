@@ -20,4 +20,4 @@ Whatever the field, my strength lies in taking a concept and developing it into 
 
 </div>
 
-[Explore My Work](projects) · [View My CV](/tadhg_reid_cv.pdf) · [Get In Touch](contact)
+[View My CV](/tadhg_reid_cv.pdf) · [Get In Touch](contact)

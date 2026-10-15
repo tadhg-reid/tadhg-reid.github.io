@@ -3,10 +3,10 @@
   url = "/tadhg_reid_cv.pdf"
   weight = 10
 
-[[main]]
-  name = "Projects"
-  pageRef = "projects"
-  weight = 20
+# [[main]]
+#   name = "Projects"
+#   pageRef = "projects"
+#   weight = 20
 
 [[main]]
   name = "Modules"
